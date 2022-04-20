@@ -17,5 +17,5 @@
 ### Statistics:
 
 [![wakatime](https://wakatime.com/badge/user/004fc887-58a7-41c4-870f-630915a463e8.svg)](https://wakatime.com/@004fc887-58a7-41c4-870f-630915a463e8) <br />
-[!githubfollowers](https://img.shields.io/github/followers/JamieCropley)]() <br />
+![GitHub followers](https://img.shields.io/github/followers/JamieCropley) <br />
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)]()
