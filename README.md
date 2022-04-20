@@ -23,7 +23,14 @@
 
 ### Games:
 
+https://jamiecropley.itch.io
 
 ### CV (Curriculum Vitae) / Resume:
 
 https://jamiecropley.ai/cv.pdf
+
+
+### Sites:
+
+https://jamiecropley.ai
+https://linktr.ee/JamieCropley
