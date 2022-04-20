@@ -11,7 +11,7 @@
 
 ### Socials:
 
-![Instagram](https://img.shields.io/badge/@jamiecropley-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <br />
+[![Instagram](https://img.shields.io/badge/@jamiecropley-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jamiecropley) <br />
 
 
 ### Statistics:
@@ -24,7 +24,6 @@
 ### Games:
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jamiecropley.itch.io)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 ### CV (Curriculum Vitae) / Resume:
 
 - https://jamiecropley.ai/cv.pdf
