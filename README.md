@@ -29,7 +29,7 @@
 - https://jamiecropley.ai/cv.pdf
 
 
-### Sites:
+### Other Sites:
 
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JamieCropley) <br />
 - https://jamiecropley.ai
-- https://linktr.ee/JamieCropley
