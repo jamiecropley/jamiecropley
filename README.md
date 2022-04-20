@@ -11,8 +11,8 @@
 
 ### Statistics:
 
-![GitHub followers](https://img.shields.io/github/followers/JamieCropley) <br />
-[![wakatime](https://wakatime.com/badge/user/004fc887-58a7-41c4-870f-630915a463e8.svg)](https://wakatime.com/@004fc887-58a7-41c4-870f-630915a463e8) <br />
+![GitHub followers](https://img.shields.io/github/followers/JamieCropley)
+[![wakatime](https://wakatime.com/badge/user/004fc887-58a7-41c4-870f-630915a463e8.svg)](https://wakatime.com/@004fc887-58a7-41c4-870f-630915a463e8)
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)]()
 
 ### Games:
@@ -20,11 +20,11 @@
 
 ### Socials:
 
-[![Instagram](https://img.shields.io/badge/@jamiecropley-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jamiecropley) <br />
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiecropley) <br />
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jamiecropley) <br />
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JamieCropley) <br />
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/JamieCropley) <br />
+[![Instagram](https://img.shields.io/badge/@jamiecropley-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jamiecropley)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamiecropley)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@jamiecropley)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JamieCropley)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/JamieCropley)
 
 ### CV (Curriculum Vitae) / Resume:
 
@@ -32,5 +32,5 @@ https://jamiecropley.ai/cv.pdf
 
 ### Other Sites:
 
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JamieCropley) <br />
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JamieCropley)
 https://jamiecropley.ai
