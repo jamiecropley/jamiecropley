@@ -11,7 +11,7 @@
 
 ### Socials:
 
-![Instagram](https://img.shields.io/badge/<jamiecropley>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/@jamiecropley-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) <br />
 
 
 ### Statistics:
