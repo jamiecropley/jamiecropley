@@ -23,7 +23,7 @@
 
 ### Games:
 
-- https://jamiecropley.itch.io
+<a href="https://jamiecropley.itch.io"<img src="{https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white}" /></a>
 
 ### CV (Curriculum Vitae) / Resume:
 
