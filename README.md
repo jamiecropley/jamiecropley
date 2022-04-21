@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Badly programmed robots 😨😱
 ### Statistics:
 [![wakatime](https://wakatime.com/badge/user/004fc887-58a7-41c4-870f-630915a463e8.svg)](https://wakatime.com/@004fc887-58a7-41c4-870f-630915a463e8)<br>
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)]()
+[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley)
 ### Games:
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jamiecropley.itch.io)
 ### Socials:
