@@ -51,7 +51,7 @@
 - https://github.com/JamieCropley/csharp-geneticalgorithm
 - https://github.com/JamieCropley/FirstPersonController-CSharp
 #### HTML5,CSS3 and JavaScript
--
+- https://github.com/JamieCropley/html-css-js-calculate
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
 #### Python
