@@ -48,6 +48,7 @@
 - https://github.com/JamieCropley/cpp-setuptests
 - https://github.com/JamieCropley/cpp-university
 #### C# and Unity Game Engine
+- https://github.com/JamieCropley/csharp-geneticalgorithm
 - https://github.com/JamieCropley/FirstPersonController-CSharp
 #### HTML5,CSS3 and JavaScript
 -
