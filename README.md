@@ -39,17 +39,19 @@
 [![DECRIPSTION](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.office.com/launch/excel)
 [![DECRIPSTION](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://overleaf.com/)
 ### Code Directory:
+#### Arduino
+- 
 #### C
 -
 #### C++
 - https://github.com/JamieCropley/cpp-setuptests
 - https://github.com/JamieCropley/cpp-university
 #### C#
--
+- https://github.com/JamieCropley/FirstPersonController-CSharp
 #### HTML5,CSS3 and JavaScript
 -
 #### LaTex
--
+- https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
 #### Python
 - https://github.com/JamieCropley/python-clickloads
 - https://github.com/JamieCropley/python-geneticalgorithm
