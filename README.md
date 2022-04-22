@@ -51,7 +51,10 @@
 #### LaTex
 -
 #### Python
--
+- https://github.com/JamieCropley/python-clickloads
+- https://github.com/JamieCropley/python-geneticalgorithm
+- https://github.com/JamieCropley/python-swiper
+- https://github.com/JamieCropley/python-unlockpdf
 ### CV:
 https://jamiecropley.ai/cv.pdf
 ### Site:
