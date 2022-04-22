@@ -22,8 +22,6 @@
 ### Languages:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso-9899.info/wiki/Main_Page)
 [![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/get-started)
-- https://github.com/JamieCropley/cpp-university
-- https://github.com/JamieCropley/cpp-setuptests
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.csharpcourse.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3schools.com/css/default.asp)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
@@ -40,6 +38,9 @@
 [![DECRIPSTION](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 [![DECRIPSTION](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.office.com/launch/excel)
 [![DECRIPSTION](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://overleaf.com/)
+### Code Directory:
+- https://github.com/JamieCropley/cpp-setuptests
+- https://github.com/JamieCropley/cpp-university
 ### CV:
 https://jamiecropley.ai/cv.pdf
 ### Site:
