@@ -45,6 +45,7 @@
 #### C
 -
 #### C++
+- https://github.com/JamieCropley/cpp-geneticalgorithm
 - https://github.com/JamieCropley/cpp-setuptests
 - https://github.com/JamieCropley/cpp-university
 #### C# and Unity Game Engine
