@@ -61,7 +61,7 @@
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
 #### Matlab
-##### A few different projects from university, but matlab not actively coded in due to its expense
+##### A few different matlab projects from university, but not actively coded in due to its expense
 - https://github.com/JamieCropley/matlab-university
 #### Python
 - https://github.com/JamieCropley/python-clickloads
