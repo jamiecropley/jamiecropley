@@ -60,6 +60,9 @@
 - https://github.com/JamieCropley/html-uniyear1
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
+#### Matlab
+##### A few different projects from university, but matlab not actively coded in due to its expense
+- https://github.com/JamieCropley/matlab-university
 #### Python
 - https://github.com/JamieCropley/python-clickloads
 - https://github.com/JamieCropley/python-geneticalgorithm
