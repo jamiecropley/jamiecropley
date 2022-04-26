@@ -54,6 +54,8 @@
 ##### Unity
 - https://github.com/JamieCropley/IMAT3451-FYPCode
 - https://github.com/JamieCropley/FirstPersonController-CSharp
+#### Excel
+- https://github.com/JamieCropley/excel-pub
 #### HTML5,CSS3 and JavaScript
 - https://github.com/JamieCropley/html-css-js-calculate
 - https://github.com/JamieCropley/html-js-gamescorelogic
