@@ -60,6 +60,8 @@
 - https://github.com/JamieCropley/html-uniyear1
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
+#### Lua
+- https://github.com/JamieCropley/lua
 #### Matlab
 ##### A few different matlab projects from university, but not actively coded in due to its expense
 - https://github.com/JamieCropley/matlab-university
