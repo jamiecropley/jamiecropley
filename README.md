@@ -59,7 +59,7 @@
 - https://github.com/JamieCropley/html-js-gamescorelogic
 - https://github.com/JamieCropley/html-uniyear1
 #### JavaScript
-https://github.com/JamieCropley/modern-javascript-course-udemy
+- https://github.com/JamieCropley/modern-javascript-course-udemy
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
 #### Lua
