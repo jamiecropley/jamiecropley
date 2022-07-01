@@ -58,10 +58,12 @@
 - https://github.com/JamieCropley/html-css-js-calculate
 - https://github.com/JamieCropley/html-js-gamescorelogic
 - https://github.com/JamieCropley/html-uniyear1
+#### JavaScript
+https://github.com/JamieCropley/modern-javascript-course-udemy
 #### LaTex
 - https://github.com/JamieCropley/MemorisationDocumentLaTeXTemplate
 #### Lua
-
+- https://github.com/JamieCropley/lua-course-pikuma
 #### Matlab
 ##### A few different matlab projects from university, but not actively coded in due to its expense
 - https://github.com/JamieCropley/matlab-university
