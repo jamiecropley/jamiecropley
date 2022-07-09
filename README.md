@@ -6,7 +6,6 @@
 - 💬 Ask me about Techno Music
 - 📫 How to reach me: Email is usually best but I am also on socials listed below
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Badly programmed robots 😨😱
 ### Statistics:
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley)
 ### Games:
@@ -48,6 +47,7 @@
 #### C# and Unity Game Engine
 ##### C#
 - https://github.com/JamieCropley/csharp-geneticalgorithm
+- https://github.com/JamieCropley/AWS-Code
 ##### Unity
 - https://github.com/JamieCropley/IMAT3451-FYPCode
 - https://github.com/JamieCropley/FirstPersonController-CSharp
@@ -71,6 +71,7 @@
 - https://github.com/JamieCropley/python-geneticalgorithm
 - https://github.com/JamieCropley/python-swiper
 - https://github.com/JamieCropley/python-unlockpdf
+- https://github.com/JamieCropley/python-euromillionsgen
 ### CV:
 https://jamiecropley.ai/cv.pdf
 ### Site:
