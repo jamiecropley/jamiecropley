@@ -66,6 +66,8 @@
 #### Matlab
 ##### A few different matlab projects from university, but not actively coded in due to its expense
 - https://github.com/JamieCropley/matlab-university
+#### Problems
+- https://github.com/JamieCropley/problems
 #### Python
 - https://github.com/JamieCropley/python-clickloads
 - https://github.com/JamieCropley/python-geneticalgorithm
