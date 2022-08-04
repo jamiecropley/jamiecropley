@@ -47,7 +47,6 @@
 #### C# and Unity Game Engine
 ##### C#
 - https://github.com/JamieCropley/csharp-geneticalgorithm
-- https://github.com/JamieCropley/AWS-Code
 ##### Unity
 - https://github.com/JamieCropley/IMAT3451-FYPCode
 - https://github.com/JamieCropley/FirstPersonController-CSharp
