@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with C and C++ always it seems 
 - 💬 Ask me about Techno Music
 - 📫 How to reach me: Email is usually best but I am also on socials listed below
-- 😄 Pronouns: He/Him test
+- 😄 Pronouns: He/Him
 ### Statistics:
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley)
 ### Games:
