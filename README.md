@@ -48,8 +48,8 @@
 ##### C#
 - https://github.com/JamieCropley/csharp-geneticalgorithm
 ##### Unity
-- https://github.com/JamieCropley/IMAT3451-FYPCode (Archived please see https://floorhole.com for my new game related projects.)
-- https://github.com/JamieCropley/FirstPersonController-CSharp (Archived please see https://floorhole.com for my new game related projects.)
+- https://github.com/JamieCropley/IMAT3451-FYPCode
+- https://github.com/JamieCropley/FirstPersonController-CSharp
 #### Excel
 - https://github.com/JamieCropley/excel-pub
 #### HTML5,CSS3 and JavaScript
