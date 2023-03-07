@@ -6,8 +6,8 @@
 - 💬 Ask me about Techno Music
 - 📫 How to reach me: Email is usually best but I am also on socials listed below
 - 😄 Pronouns: He/Him
-### Statistics:
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley)
+<!-- ### Statistics:
+[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley) -->
 ### Games:
 [![image](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jamiecropley.itch.io)
 ### Socials:
