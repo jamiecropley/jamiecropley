@@ -18,8 +18,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/JamieCropley)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JamieCropley)
 ### Languages:
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/reference/en/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso-9899.info/wiki/Main_Page)
+<!--  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso-9899.info/wiki/Main_Page) -->
 [![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/get-started)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.csharpcourse.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3schools.com/css/default.asp)
@@ -36,10 +35,8 @@
 [![DECRIPSTION](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.office.com/launch/excel)
 [![DECRIPSTION](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://overleaf.com/)
 ### My Projects: Code Directory:
-#### Arduino
-- 
-#### C
--
+<!-- #### C
+- -->
 #### C++
 - https://github.com/JamieCropley/cpp-geneticalgorithm
 - https://github.com/JamieCropley/cpp-setuptests
