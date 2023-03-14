@@ -26,6 +26,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/default.asp)
 [![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/about/gettingstarted/)
+[![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)](https://www.rust-lang.org/learn)
 ### Software:
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
 [![DECRIPSTION](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://sublimetext.com)
@@ -63,6 +64,8 @@
 - https://github.com/JamieCropley/python-swiper
 - https://github.com/JamieCropley/python-unlockpdf
 - https://github.com/JamieCropley/python-euromillionsgen
+#### Rust
+- 
 ### CV:
 https://jamiecropley.ai/cv.pdf
 ### Site:
