@@ -65,7 +65,8 @@
 - https://github.com/JamieCropley/python-unlockpdf
 - https://github.com/JamieCropley/python-euromillionsgen
 #### Rust
-- 
+- https://github.com/jamiecropley/rust-exercises-for-programmers
+- https://github.com/jamiecropley/rust-programming-language
 ### CV:
 https://jamiecropley.ai/cv.pdf
 ### Site:
