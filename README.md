@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Jamie Cropley Artificial Intelligence BSc (Hons)
 - 🔭 I’m currently working on my personal brand
-- 🌱 I’m currently learning C,C++,C#, Python, Chess and about creating a business and freelancing.
+- 🌱 I’m currently learning the Rust programming language.
 - 👯 I’m looking to collaborate on anything in the areas I am learning or working on.
 - 🤔 I’m looking for help with C and C++ always it seems 
 - 💬 Ask me about Techno Music
