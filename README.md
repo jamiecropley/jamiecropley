@@ -1,11 +1,5 @@
-### Hi there 👋 I am Jamie Cropley Artificial Intelligence BSc (Hons)
-- 🔭 I’m currently working on my personal brand
-- 🌱 I’m currently learning the Rust programming language
-- 👯 I’m looking to collaborate on anything in the areas I am learning or working on.
-- 🤔 I’m looking for help with C and C++ always it seems 
-- 💬 Ask me about Techno Music
-- 📫 How to reach me: Email is usually best but I am also on socials listed below
-- 😄 Pronouns: He/Him
+# Jamie Cropley Artificial Intelligence BSc (Hons)
+
 ### Statistics:
 [![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieCropley)](https://github.com/JamieCropley)
 ### Games:
